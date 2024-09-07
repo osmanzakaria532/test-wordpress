@@ -1,0 +1,113 @@
+.customize-control-kirki-radio-buttonset .buttonset .switch-label {
+    margin: 2px;
+}
+
+.customize-control .settings-separator {
+    background: #fff;
+    padding: 10px;
+    font-weight: 700;
+    text-align: center;
+    margin: 20px 0;
+}
+
+li#customize-control-separator_before_footer_bottom_section .settings-separator,
+li#customize-control-separator_before_footer_top_section .settings-separator {
+    background: #000;
+    color: #fff;
+}
+
+li#customize-control-body_typography label.customize-control-label,
+li#customize-control-page_banner_title_typography label.customize-control-label,
+li#customize-control-header_title_typography label.customize-control-label,
+li#customize-control-h1_typography label.customize-control-label,
+li#customize-control-h2_typography label.customize-control-label,
+li#customize-control-h3_typography label.customize-control-label,
+li#customize-control-h4_typography label.customize-control-label,
+li#customize-control-h5_typography label.customize-control-label,
+li#customize-control-h6_typography label.customize-control-label,
+li#customize-control-widget_title_typography label.customize-control-label,
+li#customize-control-widgets_title_typography label.customize-control-label,
+li#customize-control-header_desc_typography label.customize-control-label,
+li#customize-control-header_menu_typography label.customize-control-label,
+li#customize-control-header_background label.customize-control-label,
+li#customize-control-single_post_title_typography label.customize-control-label,
+li#customize-control-header_icon_typography label.customize-control-label,
+li#customize-control-menu_section_padding label.customize-control-label,
+li#customize-control-logo_section_padding label.customize-control-label,
+li#customize-control-book_title_typography label.customize-control-label,
+li#customize-control-book_author_typography label.customize-control-label,
+li#customize-control-book_price_typography label.customize-control-label,
+li#customize-control-social_share_display_locations span.customize-control-title,
+li#customize-control-about_section_desc_typography span.customize-control-title,
+li#customize-control-mobile_menu_icon_typography span.customize-control-title,
+li#customize-control-about_section_background span.customize-control-title,
+li#customize-control-about_section_social_links_colors span.customize-control-title,
+li#customize-control-page_banner_background span.customize-control-title,
+li#customize-control-books_section_background span.customize-control-title,
+li#customize-control-header_social_icons_style span.customize-control-title,
+li#customize-control-about_section_title_typography label.customize-control-label {
+    display: block;
+    background: #fff;
+    padding: 10px;
+    line-height: normal;
+    text-align: center;
+}
+
+li#customize-control-body_typography label.customize-control-label span,
+li#customize-control-header_title_typography label.customize-control-label span,
+li#customize-control-page_banner_title_typography label.customize-control-label span,
+li#customize-control-header_social_icons_style label.customize-control-label span,
+li#customize-control-h1_typography label.customize-control-label span,
+li#customize-control-h2_typography label.customize-control-label span,
+li#customize-control-h3_typography label.customize-control-label span,
+li#customize-control-h4_typography label.customize-control-label span,
+li#customize-control-h5_typography label.customize-control-label span,
+li#customize-control-h6_typography label.customize-control-label span,
+li#customize-control-widget_title_typography label.customize-control-label span,
+li#customize-control-widgets_title_typography label.customize-control-label span,
+li#customize-control-about_section_desc_typography label.customize-control-label span,
+li#customize-control-about_section_social_links label.customize-control-label span,
+li#customize-control-header_background label.customize-control-label span,
+li#customize-control-header_icon_typography label.customize-control-label span,
+li#customize-control-single_post_title_typography label.customize-control-label span,
+li#customize-control-header_title_typography label.customize-control-label span,
+li#customize-control-header_desc_typography label.customize-control-label span,
+li#customize-control-header_menu_typography label.customize-control-label span,
+li#customize-control-menu_section_padding label.customize-control-label span,
+li#customize-control-logo_section_padding label.customize-control-label span,
+li#customize-control-book_title_typography label.customize-control-label span,
+li#customize-control-book_author_typography label.customize-control-label span,
+li#customize-control-book_price_typography label.customize-control-label span,
+li#customize-control-social_share_display_locations label.customize-control-label span,
+li#customize-control-page_banner_background label.customize-control-label span,
+li#customize-control-about_section_background label.customize-control-label span,
+li#customize-control-about_section_desc_typography label.customize-control-label span,
+li#customize-control-mobile_menu_icon_typography label.customize-control-label span,
+li#customize-control-about_section_social_links_colors label.customize-control-label span,
+li#customize-control-books_section_background label.customize-control-label span,
+li#customize-control-about_section_title_typography label.customize-control-label span {
+    margin-bottom: 0;
+}
+
+li#customize-control-unlock_about_section_style_field label a {
+    display: block;
+    background: #0989ff;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    padding: 8px;
+    font-weight: 700;
+    text-transform: capitalize;
+    letter-spacing: .51px;
+}
+
+a.customizer-upgrade-to-pro {
+    background: #f00;
+    color: #fff;
+    padding: 10px;
+    margin-top: 20px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+}

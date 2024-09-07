@@ -1,0 +1,210 @@
+@font-face {
+  font-family: 'rswpthemes';
+  src:  url('../../fonts/rswpthemes.eot?iy3ejp');
+  src:  url('../../fonts/rswpthemes.eot?iy3ejp#iefix') format('embedded-opentype'),
+    url('../../fonts/rswpthemes.ttf?iy3ejp') format('truetype'),
+    url('../../fonts/rswpthemes.woff?iy3ejp') format('woff'),
+    url('../../fonts/rswpthemes.svg?iy3ejp#rswpthemes') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.rswpthemes-icon {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'rswpthemes' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-angle-down-solid:before {
+  content: "\e900";
+}
+.icon-angle-left-solid:before {
+  content: "\e901";
+}
+.icon-angle-right-solid:before {
+  content: "\e902";
+}
+.icon-angle-up-solid:before {
+  content: "\e903";
+}
+.icon-apple:before {
+  content: "\e904";
+}
+.icon-arrow-down-solid:before {
+  content: "\e905";
+}
+.icon-arrow-left-solid:before {
+  content: "\e906";
+}
+.icon-arrow-right-solid:before {
+  content: "\e907";
+}
+.icon-arrow-up-solid:before {
+  content: "\e908";
+}
+.icon-bag-shopping-solid:before {
+  content: "\e909";
+}
+.icon-behance:before {
+  content: "\e90a";
+}
+.icon-calendar-days-solid:before {
+  content: "\e90b";
+}
+.icon-circle-plus-solid:before {
+  content: "\e90c";
+}
+.icon-circle-xmark-solid:before {
+  content: "\e90d";
+}
+.icon-clock-regular:before {
+  content: "\e90e";
+}
+.icon-code-compare-solid:before {
+  content: "\e90f";
+}
+.icon-codepen:before {
+  content: "\e910";
+}
+.icon-comment-solid:before {
+  content: "\e911";
+}
+.icon-discord:before {
+  content: "\e912";
+}
+.icon-dribbble:before {
+  content: "\e913";
+}
+.icon-facebook:before {
+  content: "\e914";
+}
+.icon-facebook-messenger:before {
+  content: "\e915";
+}
+.icon-github:before {
+  content: "\e916";
+}
+.icon-goodreads:before {
+  content: "\e917";
+}
+.icon-google:before {
+  content: "\e918";
+}
+.icon-hashtag-solid:before {
+  content: "\e919";
+}
+.icon-icons8-wattpad:before {
+  content: "\e91a";
+}
+.icon-instagram:before {
+  content: "\e91b";
+}
+.icon-kickstarter:before {
+  content: "\e91c";
+}
+.icon-line:before {
+  content: "\e91d";
+}
+.icon-linkedin:before {
+  content: "\e91e";
+}
+.icon-magnifying-glass-solid:before {
+  content: "\e91f";
+}
+.icon-medium:before {
+  content: "\e920";
+}
+.icon-pinterest:before {
+  content: "\e921";
+}
+.icon-plus-solid:before {
+  content: "\e922";
+}
+.icon-quote-left-solid:before {
+  content: "\e923";
+}
+.icon-quote-right-solid:before {
+  content: "\e924";
+}
+.icon-repeat-solid:before {
+  content: "\e925";
+}
+.icon-reply-solid:before {
+  content: "\e926";
+}
+.icon-slack:before {
+  content: "\e927";
+}
+.icon-square-check-solid:before {
+  content: "\e928";
+}
+.icon-square-facebook:before {
+  content: "\e929";
+}
+.icon-square-instagram:before {
+  content: "\e92a";
+}
+.icon-square-pinterest:before {
+  content: "\e92b";
+}
+.icon-square-plus-solid:before {
+  content: "\e92c";
+}
+.icon-square-twitter:before {
+  content: "\e92d";
+}
+.icon-square-whatsapp:before {
+  content: "\e92e";
+}
+.icon-square-x-twitter-brands-solid:before {
+  content: "\e92f";
+}
+.icon-stack-overflow:before {
+  content: "\e930";
+}
+.icon-star-half-stroke-solid:before {
+  content: "\e931";
+}
+.icon-star-regular:before {
+  content: "\e932";
+}
+.icon-star-solid:before {
+  content: "\e933";
+}
+.icon-tiktok:before {
+  content: "\e934";
+}
+.icon-tumblr:before {
+  content: "\e935";
+}
+.icon-twitter:before {
+  content: "\e936";
+}
+.icon-user-solid:before {
+  content: "\e937";
+}
+.icon-whatsapp:before {
+  content: "\e938";
+}
+.icon-wordpress:before {
+  content: "\e939";
+}
+.icon-xmark-solid:before {
+  content: "\e93a";
+}
+.icon-x-twitter-brands-solid:before {
+  content: "\e93b";
+}
+.icon-youtube:before {
+  content: "\e93c";
+}

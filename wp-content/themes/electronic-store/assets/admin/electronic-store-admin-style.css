@@ -1,0 +1,76 @@
+.notice.notice-info.electronic-store-welcome-notice .video-documentation span {display: inline-block;vertical-align: middle;margin-bottom: 3px;margin-right: 2px;}
+
+.notice.notice-info.electronic-store-welcome-notice .video-documentation {
+    background: #ff2000 !important;
+    color: #fff !important;
+    font-weight: 700;
+    padding: 7px 20px;
+    text-transform: uppercase;
+    border-color: #ff2000
+}
+.notice.notice-info.electronic-store-welcome-notice {
+    padding: 50px;
+}
+div#electronic-store-settings label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+div#electronic-store-settings select {
+    width: 80%;
+    display: block;
+}
+
+div#electronic-store-settings .components-base-control {
+    margin-bottom: 10px;
+}
+.notice.notice-info.electronic-store-welcome-notice h3 {
+    font-size: 24px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.notice.notice-info.electronic-store-welcome-notice .welcome-message {
+    margin-bottom: 20px;
+    font-size: 1rem;
+}
+.electronic-store-notice-inner {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.electronic-store-notice-inner .notice-thumbnail-col {
+    max-width: 40%;
+    width: 40%;
+}
+
+.electronic-store-notice-inner .notice-thumbnail-col img {max-width: 100%;}
+a.button.premium-demo-btn.button-highlight.btn-doc.button-primary {
+    background: #a500ff;
+    border-color: #a500ff;
+}
+.notice-content-col {
+    max-width: 80%;
+    width: 80%;
+    padding-left: 50px;
+}
+.notice-content-col .notice-desc{
+    font-size: 18px;
+    width: 750px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+.notice-content-col h3 {
+    font-size: 22px;
+}
+.notice-content-col a.button.button-highlight {
+    background: #f50012;
+    border-color: #f50012;
+}
+a.button.button-highlight.upgrade-to-pro.button-primary {
+    background: #fcd602;
+    border-color: #fcd602;
+    color: #000;
+    font-weight: 700;
+}
